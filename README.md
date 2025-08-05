@@ -24,15 +24,14 @@ This Power BI dashboard analyzes the performance of Kharif crops across major In
 
 ## 📸 Dashboard Preview:
 
-![Dashboard]Screenshot Agri tech .png
+(https://github.com/SHREYA199Y/AgriTech-Kharif-Crop-Dashboard-2025/blob/main/Screenshot%20Agri%20tech%20.png)
 
 ---
 
 ## 📁 Files:
 - [`AgriTech_Kharif_Crop_2025.pbix`](./AgriTech_Kharif_Crop_2025.pbix) — Power BI file  
 - [`AgriTech_Kharif_Crop_Data.xlsx`](./AgriTech_Kharif_Crop_Data.xlsx) — Data  
-- [`Dashboard Screenshot`](./dashboard_screenshot.jpg)
-
+-[ [`Dashboard Screenshot`](https://github.com/SHREYA199Y/AgriTech-Kharif-Crop-Dashboard-2025/blob/main/Screenshot%20Agri%20tech%20.png)
 ---
 
 ## 📌 Use Cases:
