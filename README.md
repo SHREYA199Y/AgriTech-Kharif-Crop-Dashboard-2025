@@ -42,6 +42,5 @@ This Power BI dashboard analyzes the performance of Kharif crops across major In
 ---
 
 👩‍💻 Created by: **Shreya Yerpude**  
-Connect on [LinkedIn](https://www.linkedin.com) 
-
+Connect on [LinkedIn] https://www.linkedin.com/in/shreya-yerpude-b887a321b/
 
