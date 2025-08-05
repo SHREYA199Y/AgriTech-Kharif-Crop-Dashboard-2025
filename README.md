@@ -24,7 +24,7 @@ This Power BI dashboard analyzes the performance of Kharif crops across major In
 
 ## 📸 Dashboard Preview:
 
-![Dashboard](dashboard_screenshot.jpg)
+![Dashboard]Screenshot Agri tech .png
 
 ---
 
